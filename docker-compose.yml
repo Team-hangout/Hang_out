@@ -4,10 +4,11 @@ services:
   nginx:
     container_name: nginx
     image: nginx
+    build:
+      dockerfile: Dockerfile
+      context: ./nginx
     ports:
       - 80:80
-    volumes:
-      - ./nginx/conf.d:/etc/nginx/conf.d
     depends_on:
       - backend
     networks:
