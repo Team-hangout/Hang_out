@@ -72,7 +72,7 @@ AWS_S3_BUCKET_URL = "YOUR_AWS_S3_BUCKET_URL"
 ```python
 SECRET_KEY = "YOUR_TOKEN_SECRET_KEY"
 TOKEN_EXPIRED = 3600 #3600 sec, If you want longer, you can change this time.
-`
+```
 
 # 팀원 역할
 
