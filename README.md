@@ -1,6 +1,13 @@
-# Hang Out
 
-![image](https://github.com/Team-hangout/backend/assets/101315462/c5b1188e-91f6-4a63-94c5-56fc4262a700)
+
+**메인페이지**|**마이페이지**
+-----|-----
+<img src = "https://github.com/Team-hangout/Hang_out/assets/121507763/c99786fc-0572-4594-b11d-128e42bbc7f1" height = "295px" width="1100px">|<img src = "https://github.com/Team-hangout/Hang_out/assets/121507763/ab388796-8c61-45b1-906e-22b8c724981e" width="1100px">
+
+**게시글 페이지**|**게시글 작성 페이지**
+-----|-----
+<img src = "https://github.com/Team-hangout/Hang_out/assets/121507763/be87ab2b-df7b-4ab2-ae25-1d3d37be1dac" height = "295px" width="1100px">|<img src = "https://github.com/Team-hangout/Hang_out/assets/121507763/5a9eb1de-9444-40dc-98b5-742da79fe61c" height = "295px" width="1100px">
+
 
 # 프로젝트 소개
 가고 싶은 여행지를 정해서 같이 여행 갈 사람을 모집하거나, 직접 모임에 참여할 수 있는 여행 동행 커뮤니티 사이트입니다.
