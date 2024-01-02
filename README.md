@@ -2,11 +2,11 @@
 
 **메인페이지**|**마이페이지**
 -----|-----
-<img src = "https://github.com/Team-hangout/Hang_out/assets/121507763/c99786fc-0572-4594-b11d-128e42bbc7f1" height = "295px" width="1100px">|<img src = "https://github.com/Team-hangout/Hang_out/assets/121507763/ab388796-8c61-45b1-906e-22b8c724981e" width="1100px">
+<img src = "https://github.com/Team-hangout/Hang_out/assets/121507763/c99786fc-0572-4594-b11d-128e42bbc7f1" height = "280px" width="1100px">|<img src = "https://github.com/Team-hangout/Hang_out/assets/121507763/ab388796-8c61-45b1-906e-22b8c724981e" height = "280px" width="1100px">
 
 **게시글 페이지**|**게시글 작성 페이지**
 -----|-----
-<img src = "https://github.com/Team-hangout/Hang_out/assets/121507763/be87ab2b-df7b-4ab2-ae25-1d3d37be1dac" height = "295px" width="1100px">|<img src = "https://github.com/Team-hangout/Hang_out/assets/121507763/5a9eb1de-9444-40dc-98b5-742da79fe61c" height = "295px" width="1100px">
+<img src = "https://github.com/Team-hangout/Hang_out/assets/121507763/be87ab2b-df7b-4ab2-ae25-1d3d37be1dac" height = "280px" width="1100px">|<img src = "https://github.com/Team-hangout/Hang_out/assets/121507763/5a9eb1de-9444-40dc-98b5-742da79fe61c" height = "280px" width="1100px">
 
 
 # 프로젝트 소개
